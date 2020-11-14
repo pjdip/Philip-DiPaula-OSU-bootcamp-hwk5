@@ -10,7 +10,6 @@ textarea{
   resize: none;
   color: #000000;
   border-left: 1px solid black;
-/*   padding: 10px; */
   width: 100%;
 }
 
@@ -36,10 +35,6 @@ textarea{
   height: 80px;
   border-top: 1px solid white;;
 }
-
-/* .col-10 {
-  padding: 0px;
-} */
 
 .hour {
   background-color: #ffffff;
